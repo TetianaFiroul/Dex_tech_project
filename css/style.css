@@ -1,0 +1,19 @@
+/* CSS details */
+
+html * {
+   font-family: Arial;
+   color:#4d90fe;
+}
+
+p {
+  font-family: Verdana;
+  margin: 0;
+  text-align:justify;
+}
+
+body {
+	text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
